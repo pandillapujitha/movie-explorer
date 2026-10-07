@@ -1,5 +1,9 @@
 # Movie Explorer
 
+## 🚀 Live Demo
+
+[**Movie Explorer – Live Demo**](https://movie-explorer-puji.netlify.app/)
+
 A responsive movie discovery app built with **React 18**, **React Router** and the **TMDB API**. Search for any film, browse categories, filter by genre, check ratings and open a detailed page with cast, trailer and similar movies. It runs entirely in the browser, with no backend.
 
 **Live demo:** `https://<your-username>.github.io/<your-repo>/`
